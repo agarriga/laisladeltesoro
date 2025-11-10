@@ -275,19 +275,19 @@ Ejemplo acordado (aplicable tanto a Aventura como a parámetros iniciales genera
 
 -   **Día**:
     
-    -   -   Escudos iniciales: **2**
+    -   Escudos iniciales: **2**
             
     -   Menos minas / trampas.
         
 -   **Atardecer**:
     
-    -   -   Escudos iniciales: **1**
+    -   Escudos iniciales: **1**
             
     -   Densidad media de minas/trampas.
         
 -   **Noche**:
     
-    -   -   Escudos iniciales: **0**
+    -   Escudos iniciales: **0**
             
     -   Mayor castigo, más minas/trampas, menos ayudas.
         
@@ -435,7 +435,7 @@ Sin menús complejos: el inventario debe ser:
 -   Fáciles de entender en contexto de un puzzle.
     
 
-#### 3.3.2. Escudo (definido y aprobado)
+#### 3.3.2. Escudo
 
 -   Representa una **vida extra**.
     
@@ -468,7 +468,7 @@ Sin menús complejos: el inventario debe ser:
     -   Límite máximo `PENDIENTE` (se definirá si es necesario equilibrar).
         
 
-#### 3.3.3. Brújula (concepto aprobado)
+#### 3.3.3. Brújula
 
 -   Tipo: **Pasivo persistente**.
     
@@ -489,7 +489,7 @@ Sin menús complejos: el inventario debe ser:
 -   Detalle exacto `PENDIENTE` (se definirá en Bloque 2, manteniendo coherencia con Buscaminas).
     
 
-#### 3.3.4. Mapa (concepto aprobado)
+#### 3.3.4. Mapa
 
 -   Tipo: puede ser **activo** o **pasivo según diseño final**, pero:
     
